@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674990066053",
+    "firebase_url": "https://materialdesignfirebase-63d83.firebaseio.com",
+    "project_id": "materialdesignfirebase-63d83",
+    "storage_bucket": "materialdesignfirebase-63d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674990066053:android:7f6c5f0c4b319762cf1cec",
+        "android_client_info": {
+          "package_name": "com.example.journal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674990066053-7aav1ss3di3iivr2dv9rlh4ogbkt3n67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkzaLTKGgXvekt8tliEOST4LAuPCYPGKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674990066053-7aav1ss3di3iivr2dv9rlh4ogbkt3n67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
